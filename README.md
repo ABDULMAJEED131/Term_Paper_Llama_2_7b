@@ -4,8 +4,8 @@ We have used twitter-sentiment140 Dataset for this.Both cleaned and raw were col
 
 Links Below!
 
-raw(Uncleaned):https://www.kaggle.com/datasets/kazanova/sentiment140
+raw(Uncleaned): https://www.kaggle.com/datasets/kazanova/sentiment140
 
 
 Cleaned: https://www.kaggle.com/datasets/gauravsuvarna/sentiment140cleaned
-
+You can find my kaggle repo for this project here: https://www.kaggle.com/code/majeedabdul03/term-paper-llama-2-7b/notebook?scriptVersionId=303835660
